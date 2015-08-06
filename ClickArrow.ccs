@@ -1,10 +1,17 @@
 <Solution>
-  <PropertyGroup Name="ClickArrow" Version="2.3.1.1" Type="CocosStudio" />
+  <PropertyGroup Name="ClickArrow" Version="2.3.1.2" Type="CocosStudio" />
   <SolutionFolder>
     <Group ctype="ResourceGroup">
       <RootFolder Name=".">
-        <Project Name="MainScene.csd" Type="Scene" />
-        <Image Name="HelloWorld.png" />
+        <Image Name="again.png" />
+        <Image Name="arrow.png" />
+        <Image Name="background.png" />
+        <Image Name="lose.png" />
+        <Image Name="push.png" />
+        <Image Name="score.png" />
+        <Image Name="time.png" />
+        <Image Name="timebg.png" />
+        <Project Name="Layer.csd" Type="Layer" />
       </RootFolder>
     </Group>
   </SolutionFolder>

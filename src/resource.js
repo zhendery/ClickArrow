@@ -1,6 +1,5 @@
 var res = {
-    HelloWorld_png : "res/HelloWorld.png",
-    MainScene_json : "res/MainScene.json"
+    layer_json : "res/Layer.json"
 };
 
 var g_resources = [];
