@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Cocos2d-html5 Hello World test</title>
+    <title>点我--你相信你的眼睛吗？</title>
     <link rel="icon" type="image/GIF" href="res/favicon.ico"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
     <meta name="full-screen" content="yes"/>
@@ -17,11 +17,58 @@
             -khtml-user-select: none;
             -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
         }
+        #mcover {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.7);
+            display: none;
+            z-index: 20000;
+        }
+        #mcover img {
+            position: fixed;
+            right: 18px;
+            top: 5px;
+            width: 260px!important;
+            height: 180px!important;
+            z-index: 20001;
+        }
+        .text {
+            margin: 15px 0;
+            font-size: 14px;
+            word-wrap: break-word;
+            color: #727272;
+        }
+        #mess_share {
+            margin: 15px 0;
+            display: block;
+        }
+        #share_1 {
+            float: left;
+            width: 49%;
+            display: block;
+        }
+        #share_2 {
+            float: right;
+            width: 49%;
+            display: block;
+        }
+        #mess_share img {
+            width: 22px!important;
+            height: 22px!important;
+            vertical-align: top;
+            border: 0;
+        }
     </style>
 </head>
 <body style="padding:0; margin: 0; background: #000;">
-<canvas id="gameCanvas" width="800" height="450"></canvas>
-<script src="frameworks/cocos2d-html5/CCBoot.js"></script>
-<script src="main.js"></script>
+    <canvas id="gameCanvas" width="640" height="960"></canvas>
+    <script src="frameworks/cocos2d-html5/CCBoot.js"></script>
+    <script src="main.js"></script>
+    <div id="mcover" onclick="document.getElementById('mcover').style.display='';" style="display:none;">
+        <img src="res/guide.png" />
+    </div>
 </body>
 </html>

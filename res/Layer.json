@@ -178,15 +178,15 @@
                           "X": 0.0,
                           "Y": 0.0
                         },
-                        "LeftMargin": 28.5,
-                        "RightMargin": 28.5,
-                        "TopMargin": 42.5,
-                        "BottomMargin": 32.5,
+                        "LeftMargin": 37.5,
+                        "RightMargin": 37.5,
+                        "TopMargin": 33.5,
+                        "BottomMargin": 23.5,
                         "Tag": 32,
                         "ActionTag": -1202700515,
                         "Size": {
-                          "X": 63.0,
-                          "Y": 45.0
+                          "X": 45.0,
+                          "Y": 63.0
                         },
                         "Name": "arrow",
                         "ctype": "SpriteObjectData"
@@ -300,15 +300,15 @@
                           "X": 0.0,
                           "Y": 0.0
                         },
-                        "LeftMargin": 28.5,
-                        "RightMargin": 28.5,
-                        "TopMargin": 42.5,
-                        "BottomMargin": 32.5,
+                        "LeftMargin": 37.5,
+                        "RightMargin": 37.5,
+                        "TopMargin": 33.5,
+                        "BottomMargin": 23.5,
                         "Tag": 43,
                         "ActionTag": -260017042,
                         "Size": {
-                          "X": 63.0,
-                          "Y": 45.0
+                          "X": 45.0,
+                          "Y": 63.0
                         },
                         "Name": "arrow",
                         "ctype": "SpriteObjectData"
@@ -422,15 +422,15 @@
                           "X": 0.0,
                           "Y": 0.0
                         },
-                        "LeftMargin": 28.5,
-                        "RightMargin": 28.5,
-                        "TopMargin": 42.5,
-                        "BottomMargin": 32.5,
+                        "LeftMargin": 37.5,
+                        "RightMargin": 37.5,
+                        "TopMargin": 33.5,
+                        "BottomMargin": 23.5,
                         "Tag": 42,
                         "ActionTag": -363134230,
                         "Size": {
-                          "X": 63.0,
-                          "Y": 45.0
+                          "X": 45.0,
+                          "Y": 63.0
                         },
                         "Name": "arrow",
                         "ctype": "SpriteObjectData"
@@ -544,15 +544,15 @@
                           "X": 0.0,
                           "Y": 0.0
                         },
-                        "LeftMargin": 28.5,
-                        "RightMargin": 28.5,
-                        "TopMargin": 42.5,
-                        "BottomMargin": 32.5,
+                        "LeftMargin": 37.5,
+                        "RightMargin": 37.5,
+                        "TopMargin": 33.5,
+                        "BottomMargin": 23.5,
                         "Tag": 41,
                         "ActionTag": -129870904,
                         "Size": {
-                          "X": 63.0,
-                          "Y": 45.0
+                          "X": 45.0,
+                          "Y": 63.0
                         },
                         "Name": "arrow",
                         "ctype": "SpriteObjectData"
@@ -666,15 +666,15 @@
                           "X": 0.0,
                           "Y": 0.0
                         },
-                        "LeftMargin": 28.5,
-                        "RightMargin": 28.5,
-                        "TopMargin": 42.5,
-                        "BottomMargin": 32.5,
+                        "LeftMargin": 37.5,
+                        "RightMargin": 37.5,
+                        "TopMargin": 33.5,
+                        "BottomMargin": 23.5,
                         "Tag": 40,
                         "ActionTag": -901038959,
                         "Size": {
-                          "X": 63.0,
-                          "Y": 45.0
+                          "X": 45.0,
+                          "Y": 63.0
                         },
                         "Name": "arrow",
                         "ctype": "SpriteObjectData"
@@ -788,15 +788,15 @@
                           "X": 0.0,
                           "Y": 0.0
                         },
-                        "LeftMargin": 28.5,
-                        "RightMargin": 28.5,
-                        "TopMargin": 42.5,
-                        "BottomMargin": 32.5,
+                        "LeftMargin": 37.5,
+                        "RightMargin": 37.5,
+                        "TopMargin": 33.5,
+                        "BottomMargin": 23.5,
                         "Tag": 39,
                         "ActionTag": 737210118,
                         "Size": {
-                          "X": 63.0,
-                          "Y": 45.0
+                          "X": 45.0,
+                          "Y": 63.0
                         },
                         "Name": "arrow",
                         "ctype": "SpriteObjectData"
@@ -910,15 +910,15 @@
                           "X": 0.0,
                           "Y": 0.0
                         },
-                        "LeftMargin": 28.5,
-                        "RightMargin": 28.5,
-                        "TopMargin": 42.5,
-                        "BottomMargin": 32.5,
+                        "LeftMargin": 37.5,
+                        "RightMargin": 37.5,
+                        "TopMargin": 33.5,
+                        "BottomMargin": 23.5,
                         "Tag": 38,
                         "ActionTag": 1258908667,
                         "Size": {
-                          "X": 63.0,
-                          "Y": 45.0
+                          "X": 45.0,
+                          "Y": 63.0
                         },
                         "Name": "arrow",
                         "ctype": "SpriteObjectData"
@@ -1032,15 +1032,15 @@
                           "X": 0.0,
                           "Y": 0.0
                         },
-                        "LeftMargin": 28.5,
-                        "RightMargin": 28.5,
-                        "TopMargin": 42.5,
-                        "BottomMargin": 32.5,
+                        "LeftMargin": 37.5,
+                        "RightMargin": 37.5,
+                        "TopMargin": 33.5,
+                        "BottomMargin": 23.5,
                         "Tag": 37,
                         "ActionTag": 1384923655,
                         "Size": {
-                          "X": 63.0,
-                          "Y": 45.0
+                          "X": 45.0,
+                          "Y": 63.0
                         },
                         "Name": "arrow",
                         "ctype": "SpriteObjectData"
@@ -1154,15 +1154,15 @@
                           "X": 0.0,
                           "Y": 0.0
                         },
-                        "LeftMargin": 28.5,
-                        "RightMargin": 28.5,
-                        "TopMargin": 42.5,
-                        "BottomMargin": 32.5,
+                        "LeftMargin": 37.5,
+                        "RightMargin": 37.5,
+                        "TopMargin": 33.5,
+                        "BottomMargin": 23.5,
                         "Tag": 36,
                         "ActionTag": -1082929049,
                         "Size": {
-                          "X": 63.0,
-                          "Y": 45.0
+                          "X": 45.0,
+                          "Y": 63.0
                         },
                         "Name": "arrow",
                         "ctype": "SpriteObjectData"
@@ -1276,15 +1276,15 @@
                           "X": 0.0,
                           "Y": 0.0
                         },
-                        "LeftMargin": 28.5,
-                        "RightMargin": 28.5,
-                        "TopMargin": 42.5,
-                        "BottomMargin": 32.5,
+                        "LeftMargin": 37.5,
+                        "RightMargin": 37.5,
+                        "TopMargin": 33.5,
+                        "BottomMargin": 23.5,
                         "Tag": 35,
                         "ActionTag": 1867340009,
                         "Size": {
-                          "X": 63.0,
-                          "Y": 45.0
+                          "X": 45.0,
+                          "Y": 63.0
                         },
                         "Name": "arrow",
                         "ctype": "SpriteObjectData"
@@ -1398,15 +1398,15 @@
                           "X": 0.0,
                           "Y": 0.0
                         },
-                        "LeftMargin": 28.5,
-                        "RightMargin": 28.5,
-                        "TopMargin": 42.5,
-                        "BottomMargin": 32.5,
+                        "LeftMargin": 37.5,
+                        "RightMargin": 37.5,
+                        "TopMargin": 33.5,
+                        "BottomMargin": 23.5,
                         "Tag": 34,
                         "ActionTag": 170397420,
                         "Size": {
-                          "X": 63.0,
-                          "Y": 45.0
+                          "X": 45.0,
+                          "Y": 63.0
                         },
                         "Name": "arrow",
                         "ctype": "SpriteObjectData"
@@ -1520,15 +1520,15 @@
                           "X": 0.0,
                           "Y": 0.0
                         },
-                        "LeftMargin": 28.5,
-                        "RightMargin": 28.5,
-                        "TopMargin": 42.5,
-                        "BottomMargin": 32.5,
+                        "LeftMargin": 37.5,
+                        "RightMargin": 37.5,
+                        "TopMargin": 33.5,
+                        "BottomMargin": 23.5,
                         "Tag": 47,
                         "ActionTag": 2034135117,
                         "Size": {
-                          "X": 63.0,
-                          "Y": 45.0
+                          "X": 45.0,
+                          "Y": 63.0
                         },
                         "Name": "arrow",
                         "ctype": "SpriteObjectData"
@@ -1642,15 +1642,15 @@
                           "X": 0.0,
                           "Y": 0.0
                         },
-                        "LeftMargin": 28.5,
-                        "RightMargin": 28.5,
-                        "TopMargin": 42.5,
-                        "BottomMargin": 32.5,
+                        "LeftMargin": 37.5,
+                        "RightMargin": 37.5,
+                        "TopMargin": 33.5,
+                        "BottomMargin": 23.5,
                         "Tag": 46,
                         "ActionTag": 1145992039,
                         "Size": {
-                          "X": 63.0,
-                          "Y": 45.0
+                          "X": 45.0,
+                          "Y": 63.0
                         },
                         "Name": "arrow",
                         "ctype": "SpriteObjectData"
@@ -1764,15 +1764,15 @@
                           "X": 0.0,
                           "Y": 0.0
                         },
-                        "LeftMargin": 28.5,
-                        "RightMargin": 28.5,
-                        "TopMargin": 42.5,
-                        "BottomMargin": 32.5,
+                        "LeftMargin": 37.5,
+                        "RightMargin": 37.5,
+                        "TopMargin": 33.5,
+                        "BottomMargin": 23.5,
                         "Tag": 45,
                         "ActionTag": 940249465,
                         "Size": {
-                          "X": 63.0,
-                          "Y": 45.0
+                          "X": 45.0,
+                          "Y": 63.0
                         },
                         "Name": "arrow",
                         "ctype": "SpriteObjectData"
@@ -1886,15 +1886,15 @@
                           "X": 0.0,
                           "Y": 0.0
                         },
-                        "LeftMargin": 28.5,
-                        "RightMargin": 28.5,
-                        "TopMargin": 42.5,
-                        "BottomMargin": 32.5,
+                        "LeftMargin": 37.5,
+                        "RightMargin": 37.5,
+                        "TopMargin": 33.5,
+                        "BottomMargin": 23.5,
                         "Tag": 44,
                         "ActionTag": 1828792032,
                         "Size": {
-                          "X": 63.0,
-                          "Y": 45.0
+                          "X": 45.0,
+                          "Y": 63.0
                         },
                         "Name": "arrow",
                         "ctype": "SpriteObjectData"
@@ -2008,15 +2008,15 @@
                           "X": 0.0,
                           "Y": 0.0
                         },
-                        "LeftMargin": 28.5,
-                        "RightMargin": 28.5,
-                        "TopMargin": 42.5,
-                        "BottomMargin": 32.5,
+                        "LeftMargin": 37.5,
+                        "RightMargin": 37.5,
+                        "TopMargin": 33.5,
+                        "BottomMargin": 23.5,
                         "Tag": 48,
                         "ActionTag": -2082149821,
                         "Size": {
-                          "X": 63.0,
-                          "Y": 45.0
+                          "X": 45.0,
+                          "Y": 63.0
                         },
                         "Name": "arrow",
                         "ctype": "SpriteObjectData"
@@ -2249,7 +2249,9 @@
                   },
                   {
                     "FontSize": 64,
-                    "LabelText": "0",
+                    "LabelText": "0000",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -2286,14 +2288,14 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 169.0,
-                    "RightMargin": -201.0,
+                    "LeftMargin": 121.0,
+                    "RightMargin": -249.0,
                     "TopMargin": -172.0,
                     "BottomMargin": 108.0,
                     "Tag": 95,
                     "ActionTag": -2095239380,
                     "Size": {
-                      "X": 32.0,
+                      "X": 128.0,
                       "Y": 64.0
                     },
                     "Name": "score",
@@ -2442,8 +2444,9 @@
               },
               {
                 "FontSize": 36,
-                "LabelText": "你获得了36分",
+                "LabelText": "你获得了360分",
                 "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
                 "OutlineColor": {
                   "G": 0,
                   "B": 0
@@ -2477,14 +2480,14 @@
                   "X": 0.0,
                   "Y": 0.0
                 },
-                "LeftMargin": -108.0,
-                "RightMargin": -108.0,
+                "LeftMargin": -117.0,
+                "RightMargin": -117.0,
                 "TopMargin": -168.0,
                 "BottomMargin": 132.0,
                 "Tag": 99,
                 "ActionTag": -1006297133,
                 "Size": {
-                  "X": 216.0,
+                  "X": 234.0,
                   "Y": 36.0
                 },
                 "Name": "score",
@@ -2492,7 +2495,9 @@
               },
               {
                 "FontSize": 48,
-                "LabelText": "你就这点能耐了？",
+                "LabelText": "天哪，我居然被你打败了",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
                 "OutlineColor": {
                   "G": 0,
                   "B": 0
@@ -2536,15 +2541,90 @@
                 "Tag": 100,
                 "ActionTag": 817374908,
                 "Size": {
-                  "X": 384.0,
+                  "X": 528.0,
                   "Y": 48.0
                 },
                 "Name": "comment",
                 "ctype": "TextObjectData"
               },
               {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "icon_msg.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "icon_msg.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 34,
+                "Scale9Height": 42,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 100.0,
+                  "Y": -90.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 62.5,
+                "RightMargin": -137.5,
+                "TopMargin": 52.5,
+                "BottomMargin": -127.5,
+                "Tag": 48,
+                "ActionTag": 474108653,
+                "Size": {
+                  "X": 75.0,
+                  "Y": 75.0
+                },
+                "Name": "shareButton",
+                "ctype": "ButtonObjectData"
+              },
+              {
                 "FontSize": 36,
-                "ButtonText": "再来一局",
+                "ButtonText": "不服来战",
                 "TextColor": {
                   "R": 0,
                   "G": 0,
@@ -2587,7 +2667,7 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 0.0,
+                  "X": -40.0,
                   "Y": -90.0
                 },
                 "Scale": {
@@ -2604,8 +2684,8 @@
                   "X": 0.0,
                   "Y": 0.0
                 },
-                "LeftMargin": -85.5,
-                "RightMargin": -85.5,
+                "LeftMargin": -125.5,
+                "RightMargin": -45.5,
                 "TopMargin": 56.5,
                 "BottomMargin": -123.5,
                 "Tag": 103,
@@ -2640,6 +2720,7 @@
         "background.png",
         "Default/Button_Disable.png",
         "Default/LoadingBarFile.png",
+        "icon_msg.png",
         "lose.png",
         "push.png",
         "score.png",

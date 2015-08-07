@@ -9,11 +9,12 @@ var MainScene = cc.Scene.extend({
     scoreLose:null,
     comment:null,
     againButton:null,
+    shareButton:null,
 
     //游戏数值
     last:-1,//上一个方向，为-1表示游戏未开始
     score:0,
-    timeAll:32,//暂定32秒
+    timeAll:60,//暂定60秒
     time:0,
     timeP:1,//每对一个加1秒
     timeS:-5,//每错一个减5秒
@@ -42,7 +43,11 @@ var MainScene = cc.Scene.extend({
 
     		this.lose.setVisible(true);
     		this.scoreLose.setString("你获得了"+this.score+"分");
-    		//this.comment.setString();
+
+    		var level=Math.floor(this.score/10);
+    		var ran=Math.min(Math.floor(Math.random() * this.comments[level].length),this.comments.length);
+    		this.comment.setString(this.comments[level][ran]);
+    		this.comment.setFontSize(384/this.comments[level][ran].length);
     	}
     	else{
     		this.setTime(-dt);//每dt执行一次，减少时间条
@@ -70,7 +75,14 @@ var MainScene = cc.Scene.extend({
         this.comment=ccui.helper.seekWidgetByName(this.lose, "comment");
         this.againButton=ccui.helper.seekWidgetByName(this.lose, "againButton");
         this.againButton.addTouchEventListener(this.clickReset,this);
+
+        this.shareButton=ccui.helper.seekWidgetByName(this.lose, "shareButton");
+        this.shareButton.addClickEventListener(this.clickShare);
     },
+
+	clickShare:function(ref){
+		document.getElementById('mcover').style.display='block';
+	},
 
     clickButton:function(ref,type){
     	if(type== ccui.Widget.TOUCH_BEGAN){
@@ -145,6 +157,38 @@ var MainScene = cc.Scene.extend({
         cc.color(255,20,147),//深粉
         cc.color(186,85,211),//浅紫
         cc.color(34,139,34),//深绿
+    ],
+
+    comments:[
+    	[
+    		"生活好无聊，没事多点点",
+    		"你就这点能耐了？",
+    		"回去多练练再来吧！",
+    		"逗bi逗bi，逗的就是你",
+    		"你其实不该那么自信的",
+            "一定是天太热，你才会那么慢",
+            "你该检查检查视力了",
+            "对不起，但你是个好人"
+    	],
+    	[
+    		"不错不错，比蜗牛稍快点",
+            "擦擦屏幕，再接再厉",
+            "天色还早，咱们洗洗再来",
+            "屏幕没买保险吗？怎么不敢点"
+    	],
+    	[
+    		"我要对你另眼相看了！",
+            "再点点，就可以晋级啦",
+            "反应不错嘛，我看好你哦",
+            "前方高能，能点才是王道"
+    	],
+    	[
+    		"你已经超神了，快去炫耀",
+    		"神挡杀神，佛挡杀佛",
+    		"这手速~你懂的^_^",
+    		"天哪，我居然被你打败了",
+            "你就是传说中美爆六界的杀阡陌"
+    	]
     ],
 
     setDir:function(index){
