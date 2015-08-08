@@ -15,8 +15,8 @@
                   <AbstractNodeData Name="button_0_0" ActionTag="840431154" Tag="58" IconVisible="False" LeftMargin="-270.0000" RightMargin="730.0000" TopMargin="730.0000" BottomMargin="-270.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="90" Scale9Height="98" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                     <Size X="120.0000" Y="120.0000" />
                     <Children>
-                      <AbstractNodeData Name="arrow" ActionTag="-1202700515" Tag="32" IconVisible="False" LeftMargin="28.5000" RightMargin="28.5000" TopMargin="42.5000" BottomMargin="32.5000" ctype="SpriteObjectData">
-                        <Size X="63.0000" Y="45.0000" />
+                      <AbstractNodeData Name="arrow" ActionTag="-1202700515" Tag="32" IconVisible="False" LeftMargin="37.5000" RightMargin="37.5000" TopMargin="33.5000" BottomMargin="23.5000" ctype="SpriteObjectData">
+                        <Size X="45.0000" Y="63.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                         <Position X="60.0000" Y="55.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -43,8 +43,8 @@
                   <AbstractNodeData Name="button_0_1" ActionTag="-724931081" Tag="60" IconVisible="False" LeftMargin="-130.0000" RightMargin="590.0000" TopMargin="730.0000" BottomMargin="-270.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="90" Scale9Height="98" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                     <Size X="120.0000" Y="120.0000" />
                     <Children>
-                      <AbstractNodeData Name="arrow" ActionTag="-260017042" Tag="43" IconVisible="False" LeftMargin="28.5000" RightMargin="28.5000" TopMargin="42.5000" BottomMargin="32.5000" ctype="SpriteObjectData">
-                        <Size X="63.0000" Y="45.0000" />
+                      <AbstractNodeData Name="arrow" ActionTag="-260017042" Tag="43" IconVisible="False" LeftMargin="37.5000" RightMargin="37.5000" TopMargin="33.5000" BottomMargin="23.5000" ctype="SpriteObjectData">
+                        <Size X="45.0000" Y="63.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                         <Position X="60.0000" Y="55.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -71,8 +71,8 @@
                   <AbstractNodeData Name="button_0_2" ActionTag="1631896839" Tag="62" IconVisible="False" LeftMargin="10.0000" RightMargin="450.0000" TopMargin="730.0000" BottomMargin="-270.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="90" Scale9Height="98" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                     <Size X="120.0000" Y="120.0000" />
                     <Children>
-                      <AbstractNodeData Name="arrow" ActionTag="-363134230" Tag="42" IconVisible="False" LeftMargin="28.5000" RightMargin="28.5000" TopMargin="42.5000" BottomMargin="32.5000" ctype="SpriteObjectData">
-                        <Size X="63.0000" Y="45.0000" />
+                      <AbstractNodeData Name="arrow" ActionTag="-363134230" Tag="42" IconVisible="False" LeftMargin="37.5000" RightMargin="37.5000" TopMargin="33.5000" BottomMargin="23.5000" ctype="SpriteObjectData">
+                        <Size X="45.0000" Y="63.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                         <Position X="60.0000" Y="55.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -99,8 +99,8 @@
                   <AbstractNodeData Name="button_0_3" ActionTag="-524710285" Tag="64" IconVisible="False" LeftMargin="150.0000" RightMargin="310.0000" TopMargin="730.0000" BottomMargin="-270.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="90" Scale9Height="98" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                     <Size X="120.0000" Y="120.0000" />
                     <Children>
-                      <AbstractNodeData Name="arrow" ActionTag="-129870904" Tag="41" IconVisible="False" LeftMargin="28.5000" RightMargin="28.5000" TopMargin="42.5000" BottomMargin="32.5000" ctype="SpriteObjectData">
-                        <Size X="63.0000" Y="45.0000" />
+                      <AbstractNodeData Name="arrow" ActionTag="-129870904" Tag="41" IconVisible="False" LeftMargin="37.5000" RightMargin="37.5000" TopMargin="33.5000" BottomMargin="23.5000" ctype="SpriteObjectData">
+                        <Size X="45.0000" Y="63.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                         <Position X="60.0000" Y="55.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -127,8 +127,8 @@
                   <AbstractNodeData Name="button_1_0" ActionTag="-912062295" Tag="66" IconVisible="False" LeftMargin="-270.0000" RightMargin="730.0000" TopMargin="590.0000" BottomMargin="-130.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="90" Scale9Height="98" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                     <Size X="120.0000" Y="120.0000" />
                     <Children>
-                      <AbstractNodeData Name="arrow" ActionTag="-901038959" Tag="40" IconVisible="False" LeftMargin="28.5000" RightMargin="28.5000" TopMargin="42.5000" BottomMargin="32.5000" ctype="SpriteObjectData">
-                        <Size X="63.0000" Y="45.0000" />
+                      <AbstractNodeData Name="arrow" ActionTag="-901038959" Tag="40" IconVisible="False" LeftMargin="37.5000" RightMargin="37.5000" TopMargin="33.5000" BottomMargin="23.5000" ctype="SpriteObjectData">
+                        <Size X="45.0000" Y="63.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                         <Position X="60.0000" Y="55.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -155,8 +155,8 @@
                   <AbstractNodeData Name="button_1_1" ActionTag="-783326582" Tag="68" IconVisible="False" LeftMargin="-130.0000" RightMargin="590.0000" TopMargin="590.0000" BottomMargin="-130.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="90" Scale9Height="98" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                     <Size X="120.0000" Y="120.0000" />
                     <Children>
-                      <AbstractNodeData Name="arrow" ActionTag="737210118" Tag="39" IconVisible="False" LeftMargin="28.5000" RightMargin="28.5000" TopMargin="42.5000" BottomMargin="32.5000" ctype="SpriteObjectData">
-                        <Size X="63.0000" Y="45.0000" />
+                      <AbstractNodeData Name="arrow" ActionTag="737210118" Tag="39" IconVisible="False" LeftMargin="37.5000" RightMargin="37.5000" TopMargin="33.5000" BottomMargin="23.5000" ctype="SpriteObjectData">
+                        <Size X="45.0000" Y="63.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                         <Position X="60.0000" Y="55.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -183,8 +183,8 @@
                   <AbstractNodeData Name="button_1_2" ActionTag="-1475729537" Tag="70" IconVisible="False" LeftMargin="10.0000" RightMargin="450.0000" TopMargin="590.0000" BottomMargin="-130.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="90" Scale9Height="98" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                     <Size X="120.0000" Y="120.0000" />
                     <Children>
-                      <AbstractNodeData Name="arrow" ActionTag="1258908667" Tag="38" IconVisible="False" LeftMargin="28.5000" RightMargin="28.5000" TopMargin="42.5000" BottomMargin="32.5000" ctype="SpriteObjectData">
-                        <Size X="63.0000" Y="45.0000" />
+                      <AbstractNodeData Name="arrow" ActionTag="1258908667" Tag="38" IconVisible="False" LeftMargin="37.5000" RightMargin="37.5000" TopMargin="33.5000" BottomMargin="23.5000" ctype="SpriteObjectData">
+                        <Size X="45.0000" Y="63.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                         <Position X="60.0000" Y="55.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -211,8 +211,8 @@
                   <AbstractNodeData Name="button_1_3" ActionTag="1545303156" Tag="72" IconVisible="False" LeftMargin="150.0000" RightMargin="310.0000" TopMargin="590.0000" BottomMargin="-130.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="90" Scale9Height="98" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                     <Size X="120.0000" Y="120.0000" />
                     <Children>
-                      <AbstractNodeData Name="arrow" ActionTag="1384923655" Tag="37" IconVisible="False" LeftMargin="28.5000" RightMargin="28.5000" TopMargin="42.5000" BottomMargin="32.5000" ctype="SpriteObjectData">
-                        <Size X="63.0000" Y="45.0000" />
+                      <AbstractNodeData Name="arrow" ActionTag="1384923655" Tag="37" IconVisible="False" LeftMargin="37.5000" RightMargin="37.5000" TopMargin="33.5000" BottomMargin="23.5000" ctype="SpriteObjectData">
+                        <Size X="45.0000" Y="63.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                         <Position X="60.0000" Y="55.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -239,8 +239,8 @@
                   <AbstractNodeData Name="button_2_0" ActionTag="1813865514" Tag="74" IconVisible="False" LeftMargin="-270.0000" RightMargin="730.0000" TopMargin="450.0000" BottomMargin="10.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="90" Scale9Height="98" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                     <Size X="120.0000" Y="120.0000" />
                     <Children>
-                      <AbstractNodeData Name="arrow" ActionTag="-1082929049" Tag="36" IconVisible="False" LeftMargin="28.5000" RightMargin="28.5000" TopMargin="42.5000" BottomMargin="32.5000" ctype="SpriteObjectData">
-                        <Size X="63.0000" Y="45.0000" />
+                      <AbstractNodeData Name="arrow" ActionTag="-1082929049" Tag="36" IconVisible="False" LeftMargin="37.5000" RightMargin="37.5000" TopMargin="33.5000" BottomMargin="23.5000" ctype="SpriteObjectData">
+                        <Size X="45.0000" Y="63.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                         <Position X="60.0000" Y="55.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -267,8 +267,8 @@
                   <AbstractNodeData Name="button_2_1" ActionTag="101079665" Tag="76" IconVisible="False" LeftMargin="-130.0000" RightMargin="590.0000" TopMargin="450.0000" BottomMargin="10.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="90" Scale9Height="98" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                     <Size X="120.0000" Y="120.0000" />
                     <Children>
-                      <AbstractNodeData Name="arrow" ActionTag="1867340009" Tag="35" IconVisible="False" LeftMargin="28.5000" RightMargin="28.5000" TopMargin="42.5000" BottomMargin="32.5000" ctype="SpriteObjectData">
-                        <Size X="63.0000" Y="45.0000" />
+                      <AbstractNodeData Name="arrow" ActionTag="1867340009" Tag="35" IconVisible="False" LeftMargin="37.5000" RightMargin="37.5000" TopMargin="33.5000" BottomMargin="23.5000" ctype="SpriteObjectData">
+                        <Size X="45.0000" Y="63.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                         <Position X="60.0000" Y="55.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -295,8 +295,8 @@
                   <AbstractNodeData Name="button_2_2" ActionTag="176289300" Tag="78" IconVisible="False" LeftMargin="10.0000" RightMargin="450.0000" TopMargin="450.0000" BottomMargin="10.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="90" Scale9Height="98" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                     <Size X="120.0000" Y="120.0000" />
                     <Children>
-                      <AbstractNodeData Name="arrow" ActionTag="170397420" Tag="34" IconVisible="False" LeftMargin="28.5000" RightMargin="28.5000" TopMargin="42.5000" BottomMargin="32.5000" ctype="SpriteObjectData">
-                        <Size X="63.0000" Y="45.0000" />
+                      <AbstractNodeData Name="arrow" ActionTag="170397420" Tag="34" IconVisible="False" LeftMargin="37.5000" RightMargin="37.5000" TopMargin="33.5000" BottomMargin="23.5000" ctype="SpriteObjectData">
+                        <Size X="45.0000" Y="63.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                         <Position X="60.0000" Y="55.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -323,8 +323,8 @@
                   <AbstractNodeData Name="button_2_3" ActionTag="-1965721548" Tag="80" IconVisible="False" LeftMargin="150.0000" RightMargin="310.0000" TopMargin="450.0000" BottomMargin="10.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="90" Scale9Height="98" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                     <Size X="120.0000" Y="120.0000" />
                     <Children>
-                      <AbstractNodeData Name="arrow" ActionTag="2034135117" Tag="47" IconVisible="False" LeftMargin="28.5000" RightMargin="28.5000" TopMargin="42.5000" BottomMargin="32.5000" ctype="SpriteObjectData">
-                        <Size X="63.0000" Y="45.0000" />
+                      <AbstractNodeData Name="arrow" ActionTag="2034135117" Tag="47" IconVisible="False" LeftMargin="37.5000" RightMargin="37.5000" TopMargin="33.5000" BottomMargin="23.5000" ctype="SpriteObjectData">
+                        <Size X="45.0000" Y="63.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                         <Position X="60.0000" Y="55.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -351,8 +351,8 @@
                   <AbstractNodeData Name="button_3_0" ActionTag="-1802188652" Tag="82" IconVisible="False" LeftMargin="-270.0000" RightMargin="730.0000" TopMargin="310.0000" BottomMargin="150.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="90" Scale9Height="98" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                     <Size X="120.0000" Y="120.0000" />
                     <Children>
-                      <AbstractNodeData Name="arrow" ActionTag="1145992039" Tag="46" IconVisible="False" LeftMargin="28.5000" RightMargin="28.5000" TopMargin="42.5000" BottomMargin="32.5000" ctype="SpriteObjectData">
-                        <Size X="63.0000" Y="45.0000" />
+                      <AbstractNodeData Name="arrow" ActionTag="1145992039" Tag="46" IconVisible="False" LeftMargin="37.5000" RightMargin="37.5000" TopMargin="33.5000" BottomMargin="23.5000" ctype="SpriteObjectData">
+                        <Size X="45.0000" Y="63.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                         <Position X="60.0000" Y="55.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -379,8 +379,8 @@
                   <AbstractNodeData Name="button_3_1" ActionTag="-836664295" Tag="84" IconVisible="False" LeftMargin="-130.0000" RightMargin="590.0000" TopMargin="310.0000" BottomMargin="150.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="90" Scale9Height="98" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                     <Size X="120.0000" Y="120.0000" />
                     <Children>
-                      <AbstractNodeData Name="arrow" ActionTag="940249465" Tag="45" IconVisible="False" LeftMargin="28.5000" RightMargin="28.5000" TopMargin="42.5000" BottomMargin="32.5000" ctype="SpriteObjectData">
-                        <Size X="63.0000" Y="45.0000" />
+                      <AbstractNodeData Name="arrow" ActionTag="940249465" Tag="45" IconVisible="False" LeftMargin="37.5000" RightMargin="37.5000" TopMargin="33.5000" BottomMargin="23.5000" ctype="SpriteObjectData">
+                        <Size X="45.0000" Y="63.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                         <Position X="60.0000" Y="55.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -407,8 +407,8 @@
                   <AbstractNodeData Name="button_3_2" ActionTag="-407715254" Tag="86" IconVisible="False" LeftMargin="10.0000" RightMargin="450.0000" TopMargin="310.0000" BottomMargin="150.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="90" Scale9Height="98" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                     <Size X="120.0000" Y="120.0000" />
                     <Children>
-                      <AbstractNodeData Name="arrow" ActionTag="1828792032" Tag="44" IconVisible="False" LeftMargin="28.5000" RightMargin="28.5000" TopMargin="42.5000" BottomMargin="32.5000" ctype="SpriteObjectData">
-                        <Size X="63.0000" Y="45.0000" />
+                      <AbstractNodeData Name="arrow" ActionTag="1828792032" Tag="44" IconVisible="False" LeftMargin="37.5000" RightMargin="37.5000" TopMargin="33.5000" BottomMargin="23.5000" ctype="SpriteObjectData">
+                        <Size X="45.0000" Y="63.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                         <Position X="60.0000" Y="55.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -435,8 +435,8 @@
                   <AbstractNodeData Name="button_3_3" ActionTag="1334320154" Tag="88" IconVisible="False" LeftMargin="150.0000" RightMargin="310.0000" TopMargin="310.0000" BottomMargin="150.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="90" Scale9Height="98" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                     <Size X="120.0000" Y="120.0000" />
                     <Children>
-                      <AbstractNodeData Name="arrow" ActionTag="-2082149821" Tag="48" IconVisible="False" LeftMargin="28.5000" RightMargin="28.5000" TopMargin="42.5000" BottomMargin="32.5000" ctype="SpriteObjectData">
-                        <Size X="63.0000" Y="45.0000" />
+                      <AbstractNodeData Name="arrow" ActionTag="-2082149821" Tag="48" IconVisible="False" LeftMargin="37.5000" RightMargin="37.5000" TopMargin="33.5000" BottomMargin="23.5000" ctype="SpriteObjectData">
+                        <Size X="45.0000" Y="63.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                         <Position X="60.0000" Y="55.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -516,8 +516,8 @@
                     <FileData Type="Normal" Path="score.png" Plist="" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="score" ActionTag="-2095239380" Tag="95" IconVisible="False" LeftMargin="169.0000" RightMargin="-201.0000" TopMargin="-172.0000" BottomMargin="108.0000" FontSize="64" LabelText="0" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="32.0000" Y="64.0000" />
+                  <AbstractNodeData Name="score" ActionTag="-2095239380" Tag="95" IconVisible="False" LeftMargin="169.0000" RightMargin="-201.0000" TopMargin="-172.0000" BottomMargin="108.0000" FontSize="64" LabelText="0000" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                    <Size X="128.0000" Y="64.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="185.0000" Y="140.0000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -568,8 +568,8 @@
                 <FileData Type="Normal" Path="lose.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="score" ActionTag="-1006297133" Tag="99" IconVisible="False" LeftMargin="-108.0000" RightMargin="-108.0000" TopMargin="-168.0000" BottomMargin="132.0000" FontSize="36" LabelText="你获得了36分" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                <Size X="216.0000" Y="36.0000" />
+              <AbstractNodeData Name="score" ActionTag="-1006297133" Tag="99" IconVisible="False" LeftMargin="-108.0000" RightMargin="-108.0000" TopMargin="-168.0000" BottomMargin="132.0000" FontSize="36" LabelText="你获得了3600分" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                <Size X="252.0000" Y="36.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position Y="150.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -579,8 +579,8 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="comment" ActionTag="817374908" Tag="100" IconVisible="False" LeftMargin="-192.0000" RightMargin="-192.0000" TopMargin="-64.0000" BottomMargin="16.0000" FontSize="48" LabelText="你就这点能耐了？" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                <Size X="384.0000" Y="48.0000" />
+              <AbstractNodeData Name="comment" ActionTag="817374908" Tag="100" IconVisible="False" LeftMargin="-192.0000" RightMargin="-192.0000" TopMargin="-64.0000" BottomMargin="16.0000" FontSize="64" LabelText="你就这点能耐了？" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                <Size X="512.0000" Y="64.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position Y="40.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -590,10 +590,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="againButton" ActionTag="-1187236567" Tag="103" IconVisible="False" LeftMargin="-85.5000" RightMargin="-85.5000" TopMargin="56.5000" BottomMargin="-123.5000" TouchEnable="True" FontSize="36" ButtonText="再来一局" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="141" Scale9Height="45" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+              <AbstractNodeData Name="againButton" ActionTag="-1187236567" Tag="103" IconVisible="False" LeftMargin="-135.5000" RightMargin="-35.5000" TopMargin="56.5000" BottomMargin="-123.5000" TouchEnable="True" FontSize="36" ButtonText="再来一局" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="141" Scale9Height="45" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                 <Size X="171.0000" Y="67.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position Y="-90.0000" />
+                <Position X="-50.0000" Y="-90.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
@@ -602,6 +602,21 @@
                 <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
                 <PressedFileData Type="Normal" Path="again.png" Plist="" />
                 <NormalFileData Type="Normal" Path="again.png" Plist="" />
+                <OutlineColor A="255" R="255" G="0" B="0" />
+                <ShadowColor A="255" R="110" G="110" B="110" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="shareButton" ActionTag="1694071342" Tag="48" IconVisible="False" LeftMargin="52.5000" RightMargin="-127.5000" TopMargin="52.5000" BottomMargin="-127.5000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="34" Scale9Height="42" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+                <Size X="75.0000" Y="75.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="90.0000" Y="-90.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition />
+                <PreSize X="0.0000" Y="0.0000" />
+                <TextColor A="255" R="65" G="65" B="70" />
+                <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
+                <PressedFileData Type="Normal" Path="icon_msg.png" Plist="" />
+                <NormalFileData Type="Normal" Path="icon_msg.png" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>

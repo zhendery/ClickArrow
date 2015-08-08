@@ -12,6 +12,7 @@
         <Image Name="time.png" />
         <Image Name="timebg.png" />
         <Project Name="Layer.csd" Type="Layer" />
+        <Image Name="icon_msg.png" />
       </RootFolder>
     </Group>
   </SolutionFolder>

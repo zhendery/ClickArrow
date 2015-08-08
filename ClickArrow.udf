@@ -3,7 +3,7 @@
     <Item Key="CocosRecentOperation">
       <Value ctype="CocosRecentOperation">
         <LastPublishType Value="Resource" />
-        <IsLastPublish Value="True" />
+        <IsLastPublish Value="False" />
         <LastRunType Value="Web" />
       </Value>
     </Item>
@@ -12,18 +12,18 @@
         <LuaIsEncrypt Value="False" />
         <LuaEncryptKey Value="" />
         <LuaEncryptSign Value="" />
-        <Android_PackageName Value="org.cocos.ClickArrow" />
-        <AndroidkeyStore Value="" />
+        <Android_PackageName Value="cocos.zhendery.ClickArrow" />
+        <AndroidkeyStore Value="D:\Homework\android\zhendery.keystore" />
         <AndroidVersion Value="android-19" />
         <iOS_Target Value="ClickArrow iOS" />
         <iOS_BundleID Value="" />
-        <Platform Value="None" />
+        <Platform Value="Web" />
         <RunPlatform Value="Web" />
         <FrameworkVersion Value="cocos2d-x-3.4" />
-        <IsDebugKeystore Value="True" />
-        <KeystorePassword Value="" />
-        <KeystoreAliasName Value="" />
-        <KeystoreAliasPassword Value="" />
+        <IsDebugKeystore Value="False" />
+        <KeystorePassword Value="xl201wn" />
+        <KeystoreAliasName Value="zhendery" />
+        <KeystoreAliasPassword Value="xl201wn" />
         <EnableSourceMap Value="False" />
         <EnableHTML5Advanced Value="False" />
       </Value>

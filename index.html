@@ -35,31 +35,15 @@
             height: 180px!important;
             z-index: 20001;
         }
-        .text {
-            margin: 15px 0;
-            font-size: 14px;
-            word-wrap: break-word;
-            color: #727272;
-        }
-        #mess_share {
-            margin: 15px 0;
-            display: block;
-        }
-        #share_1 {
-            float: left;
-            width: 49%;
-            display: block;
-        }
-        #share_2 {
-            float: right;
-            width: 49%;
-            display: block;
-        }
-        #mess_share img {
-            width: 22px!important;
-            height: 22px!important;
-            vertical-align: top;
-            border: 0;
+        #blink {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(255, 0, 0, 0.4);
+            display: none;
+            z-index: 10000;
         }
     </style>
 </head>
@@ -70,5 +54,6 @@
     <div id="mcover" onclick="document.getElementById('mcover').style.display='';" style="display:none;">
         <img src="res/guide.png" />
     </div>
+    <div id="blink" style="display:none;"/>
 </body>
 </html>

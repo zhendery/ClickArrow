@@ -1,4 +1,9 @@
-
+var blink=function(ref,data){
+    if(data)
+        document.getElementById('blink').style.display="block";
+    else
+        document.getElementById('blink').style.display="none";
+};
 var MainScene = cc.Scene.extend({
     buttons:[],
     arrows:[],
@@ -93,12 +98,13 @@ var MainScene = cc.Scene.extend({
         		this.isRunning=true;
         	}else{
         		//游戏已经开始，则判断last与当前按钮是否符合，符合则加时间,不符合则扣时间并不改变当前按钮
-        		if(this.last==index){
+        		if(this.last==index){//点对了
         			this.setTime(this.timeP);
         			this.scoreTxt.setString(""+(++this.score));
         		}
-        		else{
+        		else{//点错了
         			this.setTime(this.timeS);
+                    this.blinkAction();
         			return;
         		}
         	}
@@ -107,6 +113,19 @@ var MainScene = cc.Scene.extend({
         	this.last=index+this.dirs_plus[this.dirs[index]];
         	this.setDir(index);
 		}
+    },
+
+    blinkAction:function(){
+        var blinkC1=cc.CallFunc.create(blink,this,true);
+        var blinkC2=cc.CallFunc.create(blink,this,false);
+        var blinkC3=cc.CallFunc.create(blink,this,true);
+        var blinkC4=cc.CallFunc.create(blink,this,false);
+
+        var blink2=cc.DelayTime.create(0.05);
+        var blink3=cc.DelayTime.create(0.08);
+        var blink4=cc.DelayTime.create(0.14);
+
+        this.runAction(cc.Sequence.create(blinkC1,blink2,blinkC2,blink3,blinkC3,blink4,blinkC4));
     },
 
     clickReset:function(ref,type){
